@@ -3,7 +3,7 @@ OBJECTIVE:
 The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
 
 DASHBOARD 1: SUMMARY-
-"In order to monitor and assess our bank's lending activities and performance, we need to create a comprehensive Bank Loan Report. This report aims to provide insights into key loan-related metrics and their changes over time. The report will help us make data-driven decisions, track our loan portfolio's health, and identify trends that can inform our lending strategies.
+This Bank loan Report is created in order to monitor and assess the bank's lending activities and performance. This report aims to provide insights into key loan-related metrics and their changes over time. The report will help to make data-driven decisions, track loan portfolio's health, and identify trends that can inform the bank's lending strategies.
 
 Key Performance Indicators (KPIs):
 1. Total Loan Applications: We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).
